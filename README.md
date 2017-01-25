@@ -19,5 +19,7 @@ make -j4
 RE-builds
 ----------------------------
 make clean
+
 make oldconfig
+
 make -j4
